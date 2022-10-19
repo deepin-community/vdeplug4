@@ -1,0 +1,32 @@
+vdeplug4 (4.0.1-2) unstable; urgency=medium
+
+  * Team upload.
+
+  [ Mattia Biondi ]
+  * Update my email address in Uploaders.
+
+  [ Mattia Rizzolo ]
+  * Upload to unstable.
+
+ -- Mattia Rizzolo <mattia@debian.org>  Wed, 21 Oct 2020 18:59:40 +0200
+
+vdeplug4 (4.0.1-1) experimental; urgency=medium
+
+  * New upstream release
+  * d/control: Bump debhelper's compat level to 13
+  * d/rules: Fix dh_auto_install syntax
+
+ -- Andrea Capriotti <capriott@debian.org>  Tue, 13 Oct 2020 20:17:30 +0200
+
+vdeplug4 (4.0.0-2) experimental; urgency=medium
+
+  * Fix libvdeplug2 dependency on libexecs0
+
+ -- Renzo Davoli <renzo@cs.unibo.it>  Sat, 10 Oct 2020 11:22:29 +0200
+
+vdeplug4 (4.0.0-1) experimental; urgency=medium
+
+  [ Mattia Biondi ]
+  * Initial release
+
+ -- Renzo Davoli <renzo@cs.unibo.it>  Thu, 30 Jan 2020 16:51:22 +0100

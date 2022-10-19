@@ -1,0 +1,5 @@
+/usr/lib/*/libvdeplug.so.4.0.0
+/usr/lib/*/libvdeplug.so.2
+/usr/lib/*/libvdeplug_mod.so.4.0.0
+/usr/lib/*/libvdeplug_mod.so.2
+/usr/lib/*/vdeplug/libvdeplug_*.so

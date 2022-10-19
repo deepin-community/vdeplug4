@@ -1,0 +1,7 @@
+/usr/include/libvdeplug.h
+/usr/include/libvdeplug_mod.h
+/usr/lib/*/libvdeplug_mod.so
+/usr/lib/*/libvdeplug.so
+/usr/lib/*/libvdeplug.a
+/usr/share/man/man3/*.3
+/usr/share/doc/vdeplug4/*
